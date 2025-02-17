@@ -1,0 +1,29 @@
+h2 {
+  border: 2px solid rgb(252, 6, 6);
+  width: fit-content;
+  background-color: rgb(86, 241, 48);
+  box-sizing: content-box;
+}
+h3 {
+  padding: 2px 1px 1px 1px;
+}
+h1 {
+  text-align: center;
+  color: rgba(11, 27, 245, 0.978);
+  text-underline-position: below;
+}
+.pantry {
+  width: 160px;
+  height: 80px;
+  padding: 0px;
+}
+.list {
+  width: 160px;
+  padding: 0px;
+  background-color: rgb(206, 204, 203);
+  border: 1px;
+  margin-right: 20px;
+}
+section {
+  display: flex;
+}
